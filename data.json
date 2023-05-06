@@ -1,0 +1,53 @@
+{
+"flightData": [
+{"id": 1, "name": "UK-888", "airlines": "IndiGo",
+"more":{
+"source": "Bangalore",
+"destination": "Mumbai",
+"departure_time": "08/05/2023 03:05:15 PM",
+"arrival_time": "08/05/2023 11:05:15 PM"}
+},
+{"id": 2, "name": "AI-544", "airlines": "Air_India",
+"more":{
+"source": "Delhi",
+"destination": "Chennai",
+"departure_time": "09/05/2023 01:05:15 PM",
+"arrival_time": "09/05/2023 11:45:15 PM"}
+},
+{"id": 3, "name": "UK-928", "airlines": "Vistara",
+"more":{
+"source": "Mumbai",
+"destination": "Kolkata",
+"departure_time": "08/05/2023 01:05:35 PM",
+"arrival_time": "08/05/2023 08:05:35 PM"}
+},
+{"id": 4, "name": "AI-687", "airlines": "Air_India",
+"more":{
+"source": "Mumbai",
+"destination": "Chennai",
+"departure_time": "08/05/2023 12:05:45 PM",
+"arrival_time": "08/05/2023 11:05:35 PM"}
+},
+{"id": 5, "name": "UK-890", "airlines": "Vistara",
+"more":{
+"source": "Hyderabad",
+"destination": "Kolkata",
+"departure_time": "09/05/2023 04:05:15 PM",
+"arrival_time": "09/05/2023 10:05:45 PM"}
+},
+{"id": 6, "name": "IG-978", "airlines": "IndiGo",
+"more":{
+"source": "Chennai",
+"destination": "Banglore",
+"departure_time": "09/05/2023 05:05:45 PM",
+"arrival_time": "09/05/2023 07:05:15 PM"}
+},
+{"id": 7, "name": "AI-686", "airlines": "Air_India",
+"more":{
+"source": "Bangalore",
+"destination": "Hyderabad",
+"departure_time": "08/05/2023 04:05:55 PM",
+"arrival_time": "08/05/2023 06:25:25 PM"}
+}
+]
+}
